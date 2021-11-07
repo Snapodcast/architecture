@@ -1,8 +1,14 @@
-# Snapod Roadmap
-Snapod's Public Roadmap
+# Snapod Architecture
+Snapod's Architecture Demostration and Explaination
+
+> Feel free to file an issue if you encountered any problem during the use of Snapod, or if you have any suggestions for the product or our architecture.
 
 <br/>
 
-Feel free to file an issue if you encountered any problem during the use of Snapod, or if you have any suggestions for the product.
 
-We also share development roadmap using Github Projects, check that out too if you want.
+## Foreword
+This project is used for describeing the architecture and technologies behind Snapod. If you are looking for our development roadmap, we share that using Github Projects, check that out on our Github organization profile page.
+
+<br/>
+
+> WIP
