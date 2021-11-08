@@ -1,5 +1,5 @@
 # Snapod Architecture
-Snapod's Architecture Demostration and Explaination
+A Demostration and Explaination to Snapod's Architecture
 
 > Feel free to file an issue if you encountered any problem during the use of Snapod, or if you have any suggestions for the product or our architecture.
 
