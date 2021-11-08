@@ -7,7 +7,7 @@ A Demostration and Explaination to Snapod's Architecture
 
 
 ## Foreword
-This project is used for describeing the architecture and technologies behind Snapod. If you are looking for our development roadmap, we share that using Github Projects, check that out on our Github organization profile page.
+This project is used for describing the architecture and technologies behind Snapod. If you are looking for our development roadmap, we share that using Github Projects, check that out on our Github organization profile page.
 
 <br/>
 
