@@ -28,7 +28,7 @@ Snapod App client is written in TypeScript using Electron framework. It's curren
 
 ## Back-end
 ### Snapod App API
-Snapod App API is written in TypeScript using Koa.js framework, deployed on Microsoft Azure using App Engine, severs are in Hong Kong.
+Snapod App API is written in TypeScript using Koa.js framework, deployed on Microsoft Azure App Engine, severs are in Hong Kong.
 + REST API routes (requests can be unauthenticated: login, signup etc.) utilize routing-controllers;
 + Implements the dependency injection methodology using TypeDI;
 + GraphQL API endpoint (all requests are authenticated) utilizes TypeGraphQL and Apollo Client;
@@ -44,7 +44,7 @@ Snapod App API is written in TypeScript using Koa.js framework, deployed on Micr
 <br/>
 
 ### Snapod Analytics
-Snapod Analytics is written in TypeScript using Express.js framework, deployed on AWS using ElasticBeanstalk, servers are in Hong Kong.
+Snapod Analytics is written in TypeScript using Express.js framework, deployed on AWS Elastic Beanstalk, servers are in Hong Kong.
 + Database interaction ORM is nohm;
 + Redis database is from Aliyun, servers are in mainland China;
 
