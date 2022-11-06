@@ -54,6 +54,12 @@ Snapod Analytics is written in TypeScript using Express.js framework, deployed o
 
 <br/>
 
+### Snapod Release Server
+Snapod Electron application release server is powered by [Nuts](https://github.com/GitbookIO/nuts) by Gitbook
++ Releases are published & distributed via Github
+
+<br/>
+
 ### Snapod Sites
 Snapod Sites is deployed as a serverless app on Netlify.
 + Custom domain is a feature provided by Netlify;
