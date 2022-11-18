@@ -50,7 +50,7 @@ Snapod App API is written in TypeScript using the Koa.js framework, deployed on 
 Snapod Analytics is written in TypeScript using Express.js framework, deployed on (~~AWS Elastic Beanstalk, server location is Hong Kong~~) Railway.app.
 + Database interaction ORM is `nohm`;
 ~~+ Redis database is from Aliyun, server location is mainland China;~~
-+ Redis database is deployed on Fly.io, server location is Hong Kong, SAR
++ Redis database is deployed on ~~Fly.io, server location is Hong Kong, SAR~~ Railway
 
 <br/>
 
