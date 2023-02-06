@@ -14,7 +14,8 @@ This project is used for describing the architecture and technologies behind Sna
 <br/>
 
 ## Front-end
-Snapod App client is written in TypeScript using the Electron framework. Currently, it produces app packages for Windows and macOS. A Linux version can also be produced when needed. During Beta phase, all packages are not signed.
+> Undergoing a major refactor
+Snapod App client is written in TypeScript using Electron framework. Currently, it produces app packages for Windows and macOS. A Linux version can also be produced when needed. During Beta phase, all packages are not signed.
 
 + App interface is developed using React.js;
 + CSS pre-processor is SASS/SCSS;
